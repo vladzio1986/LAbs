@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569785373 source:d:\aaa\codeblocks\lab2.1\lab2.1.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1569785373 source:d:\users\max\desktop\lab2\lab2.1\lab2.1.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

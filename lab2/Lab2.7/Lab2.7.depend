@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570645751 source:d:\aaa\codeblocks\lab2.7\lab2.7.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
