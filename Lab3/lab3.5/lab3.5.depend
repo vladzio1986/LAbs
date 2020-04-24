@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573802171 source:c:\users\Влад\desktop\лаби\lab3\lab3.5\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+

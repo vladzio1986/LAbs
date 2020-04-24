@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571177891 source:d:\aaa\codeblocks\lab3.3\lab3.3.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
+1571229829 source:d:\users\max\desktop\lab3\lab3.3\lab3.3.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
