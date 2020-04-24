@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574059652 source:d:\users\max\desktop\lab5\lab5.3\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
