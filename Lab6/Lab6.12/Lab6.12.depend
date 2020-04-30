@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1575270974 source:d:\aaa\codeblocks\lab6.12\main.cpp
+	<iostream>
+	"Header/Frac.h"
+
+1575271150 d:\aaa\codeblocks\lab6.12\header\frac.h
+
+1575271023 source:d:\aaa\codeblocks\lab6.12\source\frac.cpp
+	<iostream>
+	"../Header/Frac.h"
+
+1575872688 source:d:\users\max\desktop\lab6\lab6.12\main.cpp
+	<iostream>
+	"Header/Frac.h"
+
+1575872914 d:\users\max\desktop\lab6\lab6.12\header\frac.h
+

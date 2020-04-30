@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574060744 source:d:\ÏĞÎÃĞÀÌÓÂÀÍÍß\06_2\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+
+1575409108 source:d:\users\max\desktop\6\06_2\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<conio.h>
+	<windows.h>
+
