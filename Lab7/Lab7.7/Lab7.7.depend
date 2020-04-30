@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576152064 source:d:\users\max\desktop\lab7\lab7.7\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+

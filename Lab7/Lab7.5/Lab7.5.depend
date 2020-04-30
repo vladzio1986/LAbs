@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576001031 source:d:\users\max\desktop\lab7\lab7.5\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+

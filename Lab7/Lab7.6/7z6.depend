@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1576093132 source:d:\users\max\desktop\vii\7z6\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1576093132 source:d:\users\max\desktop\algorytm labs\lab7^\lab7.6\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
