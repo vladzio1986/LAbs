@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579251217 source:d:\users\max\desktop\algorithm\lab 12\lab12.2\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<ctime>
+
